@@ -1,8 +1,5 @@
-Compulsory exercise for practice 4
+Compulsory exercise
 ===========================================================================================
-Create a table in both databases (ullman, aramis) whose name is PRACTICE4, and it contains 
-the deptno and location of the departments and the average salary on the department. (Depto, Loc, AvgSal).
-Deadline: 23:59 on the day of the practice.
 
 You can check whether you completed the compulsory exercises with the following SQL query:
 

@@ -1,9 +1,5 @@
-Compulsory exercise for practice 3
+Compulsory exercise 
 ===========================================================================================
-Create a table in both databases (ullman, aramis) whose name is PRACTICE3, and it contains 
-the (Ename, ManagerName) pairs where the manager is the manager of the employee and the length
-of the two names is equal. (The names contain the same number of characters.)
-Deadline: 23:59 on the day of the practice.
 
 You can check whether you completed the compulsory exercises with the following SQL query:
 

@@ -1,10 +1,4 @@
-Compulsory exercise for practice 1
-===========================================================================================
-Connect to both databases and create a table whose name is PRACTICE1, and the content (rows)
-of the table is the same as that of NIKOVITS.LIKES table.
-Deadline: Beginning of next practice
-If you have technical problems, ask the instructor!
-*******************************************************************************************
+Compulsory exercise
 
 Fundamental operations on a table
 ------------------------------------------------------------------------------
@@ -15,7 +9,7 @@ UPDATE tablename           -> update values in one or more rows of the table
 DROP TABLE tablename       -> remove the table from the database
 SELECT ... FROM tablename  -> query some data from the table
 
-Employees stored in a table (The table below is different from EMPLOYEES table in Lecture slides)
+Employees table 
 
 EMP (empno, ename, job, mgr, hiredate, sal, comm, deptno)	   
 ----------------------------------------------------------

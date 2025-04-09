@@ -1,8 +1,6 @@
-Compulsory exercise for practice 2
+Compulsory exercise
 ===========================================================================================
-Create a table in both databases (ullman, aramis) whose name is PRACTICE2, and it contains 
-the name of those who like both apple and pear (see LIKES table below).
-Deadline: 23:59 on the day of the practice.
+
 
 In the following you can check on your own whether you completed the compulsory exercises
 with the following SQL query:
